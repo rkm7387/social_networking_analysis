@@ -1,3 +1,2 @@
 # social_networking_analysis
-This project will clean the JSON File, with duplicated rows and missing data.
-The complete Python Code without using any libraries, it will show the recommended friends as per your friend list and recommended pages you will like as per your liked pages.
+This project cleans a JSON file by removing duplicate entries and handling missing data. It includes a complete Python implementation (without using external libraries) that recommends friends based on your existing friend list and suggests pages you may like based on your liked pages.
